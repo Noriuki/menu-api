@@ -1,5 +1,5 @@
 # cardapioApi
 Feito com o propósito de aprendizado.
 
-Front-End => https://github.com/Noriuki/cardapioApi
+Vue Front-End => https://github.com/Noriuki/vue-cardapio
 ## Simple Api Asp.Net Core 3.1 + Jwt
